@@ -1,5 +1,5 @@
 <?php
-/**
+/*
  * Plugin Name:  WP Wrap
  * Plugin URI:   https://wpwrap.konzeptcode.com/
  * Description:  Adds an outer and an inner wrap to your blocks
